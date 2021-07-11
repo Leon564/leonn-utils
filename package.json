@@ -1,7 +1,6 @@
 {
   "name": "leonn-utils",
-  "version": "1.0.0",
-  "private":"true",
+  "version": "1.0.0",  
   "description": "Compilations of functions",
   "main": "src/index.js",
   "scripts": {
